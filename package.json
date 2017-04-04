@@ -1,0 +1,16 @@
+{
+  "title": "smart_proxy_toggle",
+  "name": "smartproxytoggle",
+  "version": "0.0.1",
+  "description": "It lets you set and unset proxy for your browser with one click.",
+  "main": "index.js",
+  "author": "Saurabh Kukade",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
